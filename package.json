@@ -1,0 +1,22 @@
+{
+  "name": "jch-electric",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "browser-sync start --server 'public' --files='public'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njsokol/jch-electric.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njsokol/jch-electric/issues"
+  },
+  "homepage": "https://github.com/njsokol/jch-electric#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
